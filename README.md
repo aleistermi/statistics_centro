@@ -13,21 +13,21 @@ El objetivo del taller es integrar conceptos claves de estadísticas y economía
 
 ## Temario:
 
-Fundamentos de estadística: (A & M)
+Semana 1: Fundamentos de estadística: (A & M)
 • Población
 • Individuo
 • Muestra y Muestro
 • Dato y variable
 • Muestreo aleatorio
 
-Semana 1: Representación numérica y gráfica de datos: (A)
+Semana 2: Representación numérica y gráfica de datos: (A)
 • Organización de datos y distribución de frecuencias
 • Intervalos
 • Tablas: de datos, frecuencias, intervalos de clase y doble entrada
 • Histograma
 • Gráficas de barras, líneas y área o de pastel
 
-Semana 2: Medidas de tendencia central y dispersión: (A*)
+Semana 3: Medidas de tendencia central y dispersión: (A*)
 • Medidas de tendencias central y de dispersión
 • Media, mediana y moda
 • Medidas de dispersión
@@ -37,14 +37,14 @@ Semana 2: Medidas de tendencia central y dispersión: (A*)
 • Cómo evitar las trampas de los datos
 • Cómo sacar intervalos de confianza
 
-Semana 3: Análisis de regresión simple (2 clases) (M)
+Semana 4: Análisis de regresión simple (2 clases) (M)
 Correlación
 Causalidad
 Covarianza
 Pruebas de hipótesis
 
 
-Semana 4: Análisis de regresión simple temporal (series de tiempo) (2 clases) (M)
+Semana 5: Análisis de regresión simple temporal (series de tiempo) (2 clases) (M)
 • Análisis de regresión lineal simple
 • Descomposición de series de tiempo
 • Tendencia, estacionalidad, ruido
@@ -52,7 +52,7 @@ Semana 4: Análisis de regresión simple temporal (series de tiempo) (2 clases) 
 • ¿Cómo hacer una buena proyección?
 • ¿Cómo validar una predicción?
 
-Conceptos para la interpretación económica de datos I: (M)
+Semana 6:Conceptos para la interpretación económica de datos I: (M)
 Macro:
 • Análisis macro
 • Qué es el PIB
@@ -70,6 +70,7 @@ Micro:
 • Optimización de la producción y costos (QUITAR)
 
 
+Semanas 7 y 8: TBD
 
 Introducción a la Probabilidad: (A)
 • Experimento aleatorio
