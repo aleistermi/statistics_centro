@@ -2,7 +2,7 @@
 Repositorio con las clases y datos para el curso de estadística, poder judicial
 
 
-## Duración del curso: /8 semanas
+## Duración del curso: 8 semanas
 
 
 Análisis Económico para no especialistas | 36 hrs
