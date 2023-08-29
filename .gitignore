@@ -113,3 +113,5 @@ kosmos_env
 
 # excel files
 *.xlsx
+data/inpc.csv
+data/gastoshogar.csv
