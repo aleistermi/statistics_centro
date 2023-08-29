@@ -2,7 +2,7 @@
 Repositorio con las clases y datos para el curso de estadística, poder judicial
 
 
-## Duración del curso: /8 semanas
+## Duración del curso: 8 semanas
 
 
 Análisis Económico para no especialistas | 36 hrs
@@ -13,21 +13,21 @@ El objetivo del taller es integrar conceptos claves de estadísticas y economía
 
 ## Temario:
 
-Fundamentos de estadística: (A & M)
+Semana 1: Fundamentos de estadística: (A & M)
 • Población
 • Individuo
 • Muestra y Muestro
 • Dato y variable
 • Muestreo aleatorio
 
-Representación numérica y gráfica de datos: (A)
+Semana 2: Representación numérica y gráfica de datos: (A)
 • Organización de datos y distribución de frecuencias
 • Intervalos
 • Tablas: de datos, frecuencias, intervalos de clase y doble entrada
 • Histograma
 • Gráficas de barras, líneas y área o de pastel
 
-Medidas de tendencia central y dispersión: (M)
+Semana 3: Medidas de tendencia central y dispersión: (A*)
 • Medidas de tendencias central y de dispersión
 • Media, mediana y moda
 • Medidas de dispersión
@@ -35,16 +35,42 @@ Medidas de tendencia central y dispersión: (M)
 • Varianza
 • Desviación típica o estándar
 • Cómo evitar las trampas de los datos
+• Cómo sacar intervalos de confianza
 
-Conceptos para la interpretación económica de datos I: (M)
-• Preferencias del consumidor
-• Efectos ingresos y sustitución
-• Curvas de indiferencia
+Semana 4: Análisis de regresión simple (2 clases) (M)
+Correlación
+Causalidad
+Covarianza
+Pruebas de hipótesis
+
+
+Semana 5: Análisis de regresión simple temporal (series de tiempo) (2 clases) (M)
+• Análisis de regresión lineal simple
+• Descomposición de series de tiempo
+• Tendencia, estacionalidad, ruido
+• Granger Test
+• ¿Cómo hacer una buena proyección?
+• ¿Cómo validar una predicción?
+
+Semana 6:Conceptos para la interpretación económica de datos I: (M)
+Macro:
+• Análisis macro
+• Qué es el PIB
+• Uso de índices
+• Qué es la inflación y su relación con las tasas de interés
+• Algunos conceptos de finanzas públicas
+Micro:
+• Preferencias del consumidor (QUITAR)
+• Efectos ingresos y sustitución (QUITAR)
+• Curvas de indiferencia (QUITAR)
 • Restricción presupuestaria
 • Posibilidades de consumo frente a cambios en precios e ingresos
-• Elasticidad
+• Demanda y oferta
 • Equilibrio de mercado
-• Optimización de la producción y costos
+• Optimización de la producción y costos (QUITAR)
+
+
+Semanas 7 y 8: TBD
 
 Introducción a la Probabilidad: (A)
 • Experimento aleatorio
